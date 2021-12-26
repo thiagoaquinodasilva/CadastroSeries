@@ -1,0 +1,15 @@
+D:\ReposLocal\CadastroSeries\bin\Debug\net6.0\CadastroSeries.exe
+D:\ReposLocal\CadastroSeries\bin\Debug\net6.0\CadastroSeries.deps.json
+D:\ReposLocal\CadastroSeries\bin\Debug\net6.0\CadastroSeries.runtimeconfig.json
+D:\ReposLocal\CadastroSeries\bin\Debug\net6.0\CadastroSeries.dll
+D:\ReposLocal\CadastroSeries\bin\Debug\net6.0\ref\CadastroSeries.dll
+D:\ReposLocal\CadastroSeries\bin\Debug\net6.0\CadastroSeries.pdb
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.AssemblyReference.cache
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfoInputs.cache
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfo.cs
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.CoreCompileInputs.cache
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.dll
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\ref\CadastroSeries.dll
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.pdb
+D:\ReposLocal\CadastroSeries\obj\Debug\net6.0\CadastroSeries.genruntimeconfig.cache
